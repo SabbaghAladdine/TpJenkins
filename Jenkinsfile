@@ -21,7 +21,7 @@ echo "Build du projet"
 stage('Deploy') {
 steps {
 echo "Déploiement du projet"
-// Ajoutez les commandes de déploiement ici
+sh "node salam.js"
 }
 }
 }
