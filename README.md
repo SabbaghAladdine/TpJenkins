@@ -11,7 +11,6 @@ TpJenkins
 ## MAin branch:
 ![alt text](https://github.com/SabbaghAladdine/TpJenkins/blob/main/MultiBranch1.png?raw=true)
 ![alt text](https://github.com/SabbaghAladdine/TpJenkins/blob/main/MultiBranchMAin.png?raw=true)
-![alt text](https://github.com/SabbaghAladdine/TpJenkins/blob/main/MultiBranch3.png?raw=true)
 ## Dev branch:
 ![alt text](https://github.com/SabbaghAladdine/TpJenkins/blob/main/MultiBranchDev.png?raw=true)
 ![alt text](https://github.com/SabbaghAladdine/TpJenkins/blob/main/MultiBranchDev2.png?raw=true)
